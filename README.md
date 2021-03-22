@@ -1,4 +1,7 @@
 # MSc-Thesis---Augmented-Reality-Application
+
+You can access the other documents via this link: https://drive.google.com/drive/folders/1h0pBpiA-biI4CUrUNlIfVmjnpyYC-I9J?usp=sharing
+
 Application of Augmented Reality Technology on Basic Electrical Circuits
 In this thesis, Augmented Reality technology, which has attracted considerable attention in the 
 field of information technologies in recent years, has been applied on basic electrical circuits and an 
